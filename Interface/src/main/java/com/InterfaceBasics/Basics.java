@@ -132,5 +132,6 @@
 		 */
 		
 		// Explain Extending key words in Interface.
+		public void test1();
 		
 	}
